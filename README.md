@@ -97,6 +97,7 @@ No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de
 ![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
 ![Shopify API](https://img.shields.io/badge/Shopify%20API-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **🧩 CRM, ERP & Gestão**
 
