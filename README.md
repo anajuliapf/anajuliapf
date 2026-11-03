@@ -16,7 +16,7 @@ No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de
 
 **Aqui você conhecerá um pouco do meu trabalho!** 👇
 
-🌐 Portfólio completo: [Intelidados](https://sites.google.com/view/intelidados-online/p%C3%A1gina-do-projeto) · 💼 [LinkedIn](https://www.linkedin.com/in/ana-julia-portela/)
+💼 [LinkedIn](https://www.linkedin.com/in/ana-julia-portela/)
 
 ---
 
