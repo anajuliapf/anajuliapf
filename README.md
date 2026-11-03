@@ -57,7 +57,7 @@ No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de
 
 **🗄️ Bancos de Dados**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -68,7 +68,6 @@ No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI%20(RPA)-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -87,9 +86,8 @@ No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![Amazon EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazoneventbridge&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20(GCP)-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -98,7 +96,7 @@ No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de
 ![Slack API](https://img.shields.io/badge/Slack%20API-4A154B?style=flat&logo=slack&logoColor=white)
 ![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
 ![Shopify API](https://img.shields.io/badge/Shopify%20API-7AB55C?style=flat&logo=shopify&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=postman&logoColor=white)
 
 **🧩 CRM, ERP & Gestão**
 
