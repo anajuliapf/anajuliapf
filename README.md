@@ -20,6 +20,29 @@ No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de
 
 ---
 
+## 🧭 Como eu trabalho
+
+**Perfil comportamental DISC: DI, executora e comunicadora** · Estilo de liderança: Executivo + Motivador · Tipo ENT
+
+<img src="images/perfil-disc.png" alt="Perfil DISC: natural DI (D 62, I 53, S 42, C 43) e adaptado CI (D 33, I 61, S 39, C 67)" width="620">
+
+*Mapeamento de perfil comportamental · Grupo PRO, 2026*
+
+- 🎯 **Foco em resultado:** encaro problemas como desafios, decido rápido e sigo até a entrega.
+- 🤝 **Ponte entre pessoas e tecnologia:** comunicativa e persuasiva, traduzo a necessidade do negócio em solução e engajo as pessoas na mudança.
+- 💡 **Crio do zero:** tenho visão do todo e enxergo possibilidades. Rotina repetitiva é exatamente o que eu gosto de automatizar.
+- ⚡ **Ritmo acelerado:** rendo mais em ambientes dinâmicos, com projetos novos e várias frentes ao mesmo tempo.
+- 🧠 **Racional e prática:** decido com base em lógica e dados.
+- 🔄 **Adapto o estilo ao contexto:** no trabalho com dados, ativo um modo mais analítico e cuidadoso, com mais precisão e organização.
+
+**Onde eu rendo mais:** metas claras e mensuráveis, autonomia, desafios novos, contato direto com as áreas de negócio e espaço para propor ideias.
+
+**Como trabalhar comigo:** seja direto. Me dê o objetivo e o prazo, e deixe o "como" comigo. Feedback franco é sempre bem-vindo, e reconhecimento pelas entregas me motiva.
+
+**O que desenvolvo continuamente:** planejamento e atenção aos detalhes. Por isso documento meus processos (Notion, fluxos no FigJam) e transformo rotinas em automações, para ter consistência sem perder velocidade.
+
+---
+
 ## 🛠️ Stack
 
 **📊 BI & Análise de Dados**
