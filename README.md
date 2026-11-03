@@ -99,7 +99,6 @@ No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=flat&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-2C3E50?style=flat&logo=webhooks&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **🧩 CRM, ERP & Gestão**
 
