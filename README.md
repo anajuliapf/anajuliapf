@@ -10,26 +10,81 @@ Atuo como **ponte entre TI e as áreas de negócio**, traduzindo necessidades, a
 
 Minhas competências incluem **análise de dados, automação de processos, desenvolvimento de dashboards, gestão de CRM** e, recentemente, **Inteligência Artificial**, área em que desenvolvo agentes de atendimento.
 
-Curso Bacharelado em Administração na **UFG** e tenho **5 anos de experiência em Business Intelligence**, com passagem por duas multinacionais, onde aprimorei minha capacidade de interpretar e analisar dados com técnicas estatísticas e ferramentas como **SQL, Power BI e Python**. Sou especialista em Power BI, certificada pela **Xperiun**.
+Curso Bacharelado em Administração na **UFG** e tenho quase **5 anos de experiência em Business Intelligence**, com passagem por duas multinacionais, onde aprimorei minha capacidade de interpretar e analisar dados com técnicas estatísticas e ferramentas como **SQL, Power BI e Python**. Sou especialista em Power BI, certificada pela **Xperiun**.
 
 No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de clareza, direcionamento ou de uma solução que conecte processos, tecnologia e pessoas. Busco um trabalho focado em resultados, que contribua de forma significativa para o crescimento da empresa, gere lucro e ajude a conquistar suas metas.
 
 **Aqui você conhecerá um pouco do meu trabalho!** 👇
 
-💼 [LinkedIn](https://www.linkedin.com/in/ana-julia-portela/)
+🌐 Portfólio completo: [Intelidados](https://sites.google.com/view/intelidados-online/p%C3%A1gina-do-projeto) · 💼 [LinkedIn](https://www.linkedin.com/in/ana-julia-portela/)
 
 ---
 
 ## 🛠️ Stack
 
+**📊 BI & Análise de Dados**
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**🗄️ Bancos de Dados**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**🐍 Programação & Automação**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI%20(RPA)-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+
+**🤖 Inteligência Artificial**
+
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Groq Whisper](https://img.shields.io/badge/Groq%20Whisper-F55036?style=flat&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO%20(Visão%20Computacional)-00FFFF?style=flat&logoColor=black)
+![Agentes de Atendimento](https://img.shields.io/badge/Agentes%20de%20IA-8A2BE2?style=flat&logoColor=white)
+
+**☁️ Cloud & Deploy**
+
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Amazon EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazoneventbridge&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+**🔌 Integrações & APIs**
+
+![Slack API](https://img.shields.io/badge/Slack%20API-4A154B?style=flat&logo=slack&logoColor=white)
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
+![Shopify API](https://img.shields.io/badge/Shopify%20API-7AB55C?style=flat&logo=shopify&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white)
+
+**🧩 CRM, ERP & Gestão**
+
+![PipeRun](https://img.shields.io/badge/PipeRun%20(CRM)-1F6FEB?style=flat&logoColor=white)
+![Rubeus](https://img.shields.io/badge/Rubeus%20(CRM)-6F42C1?style=flat&logoColor=white)
+![Sankhya](https://img.shields.io/badge/Sankhya%20(ERP)-0B6E4F?style=flat&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma%20%2F%20FigJam-F24E1E?style=flat&logo=figma&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
 
 ## 🏅 Certificações
 
