@@ -10,7 +10,7 @@ Atuo como **ponte entre TI e as áreas de negócio**, traduzindo necessidades, a
 
 Minhas competências incluem **análise de dados, automação de processos, desenvolvimento de dashboards, gestão de CRM** e, recentemente, **Inteligência Artificial**, área em que desenvolvo agentes de atendimento.
 
-Curso Bacharelado em Administração na **UFG** e tenho quase **5 anos de experiência em Business Intelligence**, com passagem por duas multinacionais, onde aprimorei minha capacidade de interpretar e analisar dados com técnicas estatísticas e ferramentas como **SQL, Power BI e Python**. Sou especialista em Power BI, certificada pela **Xperiun**.
+Curso Bacharelado em Administração na **UFG** e tenho **5 anos de experiência em Business Intelligence**, com passagem por duas multinacionais, onde aprimorei minha capacidade de interpretar e analisar dados com técnicas estatísticas e ferramentas como **SQL, Power BI e Python**. Sou especialista em Power BI, certificada pela **Xperiun**.
 
 No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de clareza, direcionamento ou de uma solução que conecte processos, tecnologia e pessoas. Busco um trabalho focado em resultados, que contribua de forma significativa para o crescimento da empresa, gere lucro e ajude a conquistar suas metas.
 
