@@ -1,6 +1,6 @@
 # Olá, eu sou a Ana Júlia 👋
 
-**Analista de Dados & BI** · Automação de processos · Goiânia, GO
+**Analista de Dados & BI** · Automação de processos · Inteligência Artificial · Goiânia, GO
 
 ## 👩‍💻 Sobre mim
 
