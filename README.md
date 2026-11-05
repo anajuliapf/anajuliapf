@@ -8,7 +8,7 @@ Sou uma profissional de análise de dados que enxerga a tecnologia como meio, n�
 
 Atuo como **ponte entre TI e as áreas de negócio**, traduzindo necessidades, alinhando expectativas e transformando questões complexas em soluções práticas, simples e estratégicas.
 
-Minhas competências incluem **análise de dados, automação de processos, desenvolvimento de dashboards, gestão de CRM** e, recentemente, **Inteligência Artificial**, área em que desenvolvo agentes de atendimento.
+Minhas competências incluem **análise de dados, automação de processos, desenvolvimento de dashboards, gestão de CRM** e, **Inteligência Artificial**, área em que desenvolvo agentes de atendimento.
 
 Curso Bacharelado em Administração na **UFG** e tenho quase **5 anos de experiência em Business Intelligence**, com passagem por duas multinacionais, onde aprimorei minha capacidade de interpretar e analisar dados com técnicas estatísticas e ferramentas como **SQL, Power BI e Python**. Sou especialista em Power BI, certificada pela **Xperiun**.
 
