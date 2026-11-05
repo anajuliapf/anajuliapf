@@ -141,7 +141,6 @@ No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de
 | [Cilia – Ofertas Multicanal](https://github.com/anajuliapf/cilia-ofertas-multicanal) | Geração de ofertas e arquivos para WhatsApp, PipeRun, e-mail e telegrama | Telegramas: **9h → 1h30** |
 | [RPA – Lançamento de Visitas](https://github.com/anajuliapf/rpa-lancamento-visitas-share) | Preenchimento automático de visitas no SharePoint | **2h → 20–30 min** por semana |
 | [RPA – Backoffice UNO](https://github.com/anajuliapf/rpa-backoffice-uno) | Importações, saldos, relatórios, APRs e extração de PDF | Rotina administrativa automatizada |
-| [Envio de E-mails via Outlook](https://github.com/anajuliapf/automacao-envio-emails-outlook) | Disparo padronizado de e-mails em HTML | Menos erros e mais agilidade |
 
 ## 🗄️ SQL
 
