@@ -35,7 +35,7 @@ No dia a dia, sou aquela profissional que as pessoas procuram quando precisam de
 - 🧠 **Racional e prática:** decido com base em lógica e dados.
 - 🔄 **Adapto o estilo ao contexto:** no trabalho com dados, ativo um modo mais analítico e cuidadoso, com mais precisão e organização.
 
-**Onde eu rendo mais:** metas claras e mensuráveis, autonomia, desafios novos, contato direto com as áreas de negócio e espaço para propor ideias.
+**Onde eu rendo mais:** metas visíveis, autonomia, desafios novos, contato direto com as áreas de negócio e espaço para propor ideias.
 
 **Como trabalhar comigo:** seja direto. Me dê o objetivo e o prazo, e deixe o "como" comigo. Feedback franco é sempre bem-vindo, e reconhecimento pelas entregas me motiva.
 
